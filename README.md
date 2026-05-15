@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Khizar 👋
 
-<!--
-**Khizzii/Khizzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | CS Student at SZABIST
 
-Here are some ideas to get you started:
+I'm a computer science student based in Karachi, passionate about building scalable web and mobile applications. I enjoy architecting robust backends and designing intuitive, modern user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+**Frontend:** React, Next.js, React Native, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, Laravel (PHP)  
+**Databases:** MongoDB, MySQL, Firebase  
+**Tools:** Git, GitHub, VS Code, Postman, Vercel  
+
+---
+
+### 🚀 What I'm Up To
+- 🎓 Currently studying Computer Science at **SZABIST** (6th Semester)
+- 💻 Actively building a high-performance **Next.js & Tailwind CSS** personal portfolio
+- 🤝 Executive Committee Member at **ACM SZABIST** & Event Team at **GDGOC**
+- 🌱 Exploring **Agentic AI** workflows and advanced cloud deployment
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [https://www.linkedin.com/in/khizar-iqbal-fazil/]
+- **Email:** khizar.faazal@gmail.com
